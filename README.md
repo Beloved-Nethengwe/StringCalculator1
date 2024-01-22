@@ -1,1 +1,5 @@
 # StringCalculator
+
+Timothy
+Juanro
+Beloved
